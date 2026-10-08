@@ -25,13 +25,13 @@ updated: 2026-09-20
 | 7 | [[Line - Life]] → [[Line - Head]] → [[Line - Heart]] | One at a time, in order |
 | 8 | [[Reference - The Mounts]] | The character layer |
 
-**Current assignment:** 📝 [[Quiz - Lesson 03]] — closed-book self-test, ~20 min.
-Answer key is separate: [[Quiz Answers - Lesson 03]] (don't peek). Then read your own
-two hands using [[Reading Log]] (Exercise 1 is already set up there).
+**Current assignment:** 📷 [[05 - Lesson 05 - Photographing a Hand]] — retake both palms
+to the standard in that note. Once they're readable I can do an annotated reading where
+each circle marks the exact spot producing a meaning.
 
+> Quiz Round 5 is parked. Re-run it when you want to close the Q1–Q4 retention gaps.
 > **⚠️ Gap found by live quiz:** hand shape and the thumb were never taught as a lesson,
 > so the shape premise couldn't be applied. Fixed by [[04 - Lesson 04 - Shape and Thumb]].
-> Re-attempt quiz Q3/Q4 after it.
 
 > You're on whichever step you're on. Lessons 1 and 2 assume step 1.
 
