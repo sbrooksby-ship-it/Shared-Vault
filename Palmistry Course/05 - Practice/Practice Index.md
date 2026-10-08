@@ -17,5 +17,12 @@ Each reading gets its own note, built from the [[Reading Note]] template, and al
 |---|------|-----------|---------------|
 | — | *none yet* | | |
 
+## 📝 Quizzes
+
+| Quiz | Lesson | Score | Date taken |
+|------|--------|-------|-------------|
+| [[Quiz - Lesson 03]] | Lesson 3 — What the Lines Mean | | |
+| | | | |
+
 ## Related
 - [[Palmistry Course - Home]] · [[Reading Log]] · [[Reading Note]]

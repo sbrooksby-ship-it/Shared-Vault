@@ -16,7 +16,7 @@ updated: 2026-09-20
 | **Textbook** | *unknown* |
 | **Length** | *unknown* |
 | **Start date** | *2026-09-20* |
-| **Current lesson** | *2 — Finding the Lines* |
+| **Current lesson** | *3 — What the Lines Mean* |
 
 > **Note:** no external course is attached to these notes. Jonny is teaching this
 > course directly, drawing on the classical Western lineage and Indian
